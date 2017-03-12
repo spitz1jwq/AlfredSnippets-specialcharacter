@@ -1,0 +1,1 @@
+# AlfredSnippets-specialcharacter
